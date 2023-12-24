@@ -1,0 +1,8 @@
+# Arquivos gerados pelo ambiente de desenvolvimento
+bin/
+obj/
+
+# Dependências e pacotes
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
